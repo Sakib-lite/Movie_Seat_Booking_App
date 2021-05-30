@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+.selected_seats {
+     @apply bg-gradient-to-r from-pink-700 to-indigo-700
+   }
+@tailwind utilities;
